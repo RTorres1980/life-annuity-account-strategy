@@ -1,0 +1,114 @@
+account_id,contact,type,date
+A001,Jordan Prescott,Call,2026-05-26
+A001,Jordan Prescott,Call,2026-09-28
+A001,Jordan Prescott,Email,2026-04-06
+A001,Jordan Kerr,Call,2026-07-09
+A001,Parker Delaney,Business Review,2026-06-30
+A001,Parker Delaney,Meeting,2026-05-22
+A001,Riley Ashby,Business Review,2026-08-21
+A001,Parker Sutton,Business Review,2026-09-14
+A002,Parker Graves,Email,2026-08-20
+A002,Parker Graves,Business Review,2026-09-04
+A002,Parker Graves,Meeting,2026-07-25
+A002,Parker Lowell,Meeting,2026-06-15
+A003,Drew Hale,Business Review,2026-08-17
+A003,Drew Hale,Call,2026-08-27
+A003,Drew Hale,Business Review,2026-06-05
+A003,Sawyer Holt,Meeting,2026-07-17
+A003,Quinn Ashby,Email,2026-05-08
+A003,Quinn Ashby,Email,2026-06-27
+A003,Blake Mercer,Email,2026-08-11
+A003,Blake Mercer,Business Review,2026-07-29
+A003,Taylor Calder,Call,2026-08-01
+A004,Riley Prescott,Email,2026-05-05
+A004,Reese Hale,Email,2026-09-14
+A004,Blake Sutton,Email,2026-07-30
+A004,Blake Sutton,Call,2026-04-17
+A004,Blake Sutton,Meeting,2026-04-16
+A004,Hayden Calder,Meeting,2026-09-04
+A004,Hayden Calder,Meeting,2026-06-01
+A004,Hayden Calder,Call,2026-06-08
+A005,Casey Brennan,Meeting,2026-07-17
+A005,Casey Brennan,Call,2026-08-31
+A005,Avery Kerr,Call,2026-09-11
+A006,Taylor Holt,Call,2026-06-08
+A006,Taylor Holt,Email,2026-04-13
+A006,Hayden Holt,Call,2026-09-21
+A006,Hayden Holt,Email,2026-07-05
+A006,Quinn Holt,Meeting,2026-08-09
+A007,Drew Lowell,Meeting,2026-04-30
+A007,Drew Lowell,Call,2026-09-28
+A007,Reese Ashby,Business Review,2026-04-10
+A007,Reese Ashby,Email,2026-08-14
+A007,Reese Graves,Meeting,2026-08-09
+A007,Reese Graves,Meeting,2026-05-27
+A007,Taylor Brennan,Meeting,2026-06-18
+A007,Taylor Brennan,Meeting,2026-06-21
+A007,Taylor Brennan,Call,2026-04-20
+A008,Riley Foster,Business Review,2026-04-05
+A008,Riley Graves,Business Review,2026-07-20
+A008,Riley Graves,Email,2026-06-16
+A008,Riley Hale,Email,2026-06-16
+A008,Riley Hale,Business Review,2026-09-26
+A008,Avery Ashby,Call,2026-06-22
+A008,Avery Ashby,Business Review,2026-08-09
+A009,Avery Foster,Call,2026-06-14
+A009,Avery Foster,Meeting,2026-09-07
+A009,Avery Foster,Business Review,2026-05-06
+A009,Quinn Hale,Business Review,2026-08-20
+A009,Quinn Hale,Call,2026-09-27
+A010,Hayden Vance,Business Review,2026-09-08
+A010,Sawyer Kerr,Call,2026-08-24
+A010,Sawyer Kerr,Email,2026-07-20
+A010,Finley Ashby,Call,2026-09-13
+A010,Rowan Lowell,Business Review,2026-08-11
+A010,Rowan Lowell,Email,2026-08-29
+A010,Rowan Lowell,Meeting,2026-05-30
+A011,Finley Marsh,Meeting,2026-04-28
+A011,Finley Marsh,Business Review,2026-09-08
+A011,Rowan Delaney,Call,2026-04-25
+A011,Taylor Holt,Call,2026-06-01
+A011,Taylor Holt,Call,2026-05-09
+A011,Taylor Holt,Call,2026-09-20
+A011,Rowan Lowell,Call,2026-06-24
+A011,Rowan Lowell,Email,2026-08-30
+A011,Rowan Lowell,Call,2026-07-29
+A012,Morgan Ashby,Meeting,2026-05-10
+A012,Morgan Whitaker,Meeting,2026-06-23
+A012,Morgan Whitaker,Business Review,2026-05-13
+A012,Hayden Mercer,Business Review,2026-07-14
+A012,Hayden Mercer,Call,2026-06-14
+A013,Jordan Sutton,Email,2026-06-08
+A013,Jordan Sutton,Business Review,2026-08-16
+A013,Jordan Sutton,Meeting,2026-09-30
+A013,Finley Lowell,Business Review,2026-08-01
+A013,Finley Lowell,Business Review,2026-04-25
+A013,Finley Lowell,Business Review,2026-08-16
+A013,Hayden Hale,Business Review,2026-09-03
+A013,Hayden Hale,Meeting,2026-08-29
+A013,Hayden Hale,Email,2026-06-12
+A013,Morgan Whitaker,Meeting,2026-06-09
+A013,Morgan Whitaker,Meeting,2026-09-20
+A013,Morgan Prescott,Meeting,2026-07-12
+A014,Quinn Vance,Call,2026-09-24
+A014,Quinn Vance,Meeting,2026-04-26
+A014,Quinn Vance,Meeting,2026-08-12
+A014,Parker Calder,Business Review,2026-07-19
+A014,Taylor Calder,Call,2026-09-14
+A015,Taylor Graves,Email,2026-08-21
+A015,Taylor Graves,Email,2026-04-26
+A015,Reese Foster,Business Review,2026-08-25
+A015,Reese Foster,Email,2026-05-25
+A015,Casey Delaney,Call,2026-05-02
+A015,Casey Delaney,Email,2026-04-26
+A015,Casey Delaney,Call,2026-07-11
+A015,Blake Marsh,Meeting,2026-08-11
+A015,Blake Marsh,Call,2026-06-19
+A016,Hayden Delaney,Email,2026-04-10
+A016,Quinn Mercer,Business Review,2026-08-18
+A016,Quinn Mercer,Email,2026-09-01
+A016,Parker Prescott,Business Review,2026-05-11
+A016,Parker Prescott,Meeting,2026-07-28
+A002,Dana Whitcomb,Email,2026-07-25
+A002,Dana Whitcomb,Business Review,2026-06-28
+A002,Dana Whitcomb,Call,2026-06-30

@@ -1,0 +1,27 @@
+opp_id,account_id,type,stage,amount,close_date,stage_age_days,metrics,economic_buyer,decision_criteria,decision_process,paper_process,identify_pain,champion,competition
+O001,A001,Expansion,Solution Design,92000.0,2026-11-30,110,2,2,2,0,2,2,2,2
+O002,A001,Renewal,Business Case,625300.0,2026-12-14,14,2,2,2,2,2,2,2,2
+O003,A002,Expansion,Business Case,174000.0,2027-08-27,44,2,2,2,1,2,2,2,1
+O004,A002,Renewal,Solution Design,139600.0,2026-12-15,48,1,2,2,2,2,2,2,2
+O005,A003,Expansion,Negotiation,410000.0,2026-10-21,52,1,0,2,2,0,2,2,0
+O006,A003,Renewal,Negotiation,806500.0,2027-06-30,9,2,2,2,2,2,2,2,2
+O007,A004,Expansion,Closed Won,212000.0,2027-04-29,23,2,2,2,2,1,2,1,2
+O008,A004,Renewal,Negotiation,228700.0,2027-06-08,9,2,2,2,2,2,2,2,2
+O009,A005,Expansion,Qualification,369000.0,2027-04-27,30,2,2,2,2,2,2,2,2
+O010,A005,Renewal,Business Case,713600.0,2027-05-22,25,2,2,2,1,2,2,2,2
+O011,A006,Expansion,Closed Lost,117000.0,2026-10-13,8,2,2,2,2,2,2,2,2
+O012,A006,Renewal,Negotiation,370700.0,2027-06-26,6,2,2,2,2,2,2,2,2
+O013,A007,Expansion,Business Case,322000.0,2027-01-13,24,2,2,2,2,2,2,2,2
+O014,A007,Renewal,Negotiation,465600.0,2027-05-01,26,1,2,2,2,2,2,2,2
+O015,A008,Expansion,Solution Design,279000.0,2026-09-22,36,2,0,2,2,0,2,1,2
+O016,A009,Expansion,Closed Lost,632000.0,2026-10-26,7,2,2,2,1,2,2,2,2
+O017,A009,Renewal,Negotiation,205400.0,2027-03-12,33,2,2,2,2,2,2,2,2
+O018,A010,Expansion,Closed Won,490000.0,2026-10-26,45,2,2,2,2,2,2,2,2
+O019,A010,Renewal,Business Case,429800.0,2026-12-02,55,2,2,2,2,1,2,2,2
+O020,A011,Expansion,Qualification,369000.0,2027-08-02,46,2,2,1,2,2,2,2,0
+O021,A011,Renewal,Negotiation,373300.0,2027-03-09,52,2,2,2,2,2,2,2,2
+O022,A012,New Business,Discovery,621000.0,2026-11-04,30,2,2,1,2,2,2,1,0
+O023,A013,New Business,Business Case,520000.0,2027-01-04,18,2,2,2,2,2,2,2,2
+O024,A014,New Business,Discovery,404000.0,2026-12-06,29,2,1,2,0,2,0,2,1
+O025,A015,New Business,Discovery,444000.0,2026-12-26,45,0,2,2,0,2,1,2,2
+O026,A016,New Business,Negotiation,114000.0,2027-08-23,49,2,2,2,2,2,2,2,2

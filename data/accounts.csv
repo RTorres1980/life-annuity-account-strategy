@@ -1,0 +1,17 @@
+account_id,account,segment,status,annual_premium_bn,modules,arr,renewal_date,seat_usage_pct,usage_trend_pct,nps,open_escalations,nigo_rate_pct
+A001,Northbridge Life,Carrier,Client,2.4,Order Entry;Licensing & Appointments;E-Application;In-Force Data Feed,625300.0,2026-12-14,96.0,14.0,10.0,0,8.2
+A002,Summit Mutual,Carrier,Client,2.3,In-Force Data Feed;Annuity Illustrations,139600.0,2026-12-15,78.0,-9.5,4.0,3,13.2
+A003,Keystone Annuity Co.,Carrier,Client,9.0,E-Application;Annuity Illustrations;Distribution Analytics;Suitability Review;Order Entry,806500.0,2027-06-30,85.0,-4.4,10.0,2,7.1
+A004,Harborline Life & Annuity,Carrier,Client,1.6,Order Entry;Licensing & Appointments,228700.0,2027-06-08,92.0,0.7,8.0,0,10.8
+A005,Granite Peak Insurance,Carrier,Client,5.5,Order Entry;Annuity Illustrations;In-Force Data Feed;E-Application,713600.0,2027-05-22,72.0,-3.5,10.0,1,4.6
+A006,Bluewater Financial Life,Carrier,Client,4.8,Annuity Illustrations;Suitability Review;Distribution Analytics,370700.0,2027-06-26,76.0,1.5,6.0,0,11.5
+A007,Meridian Brokerage Group,IMO,Client,5.1,In-Force Data Feed;Order Entry;Annuity Illustrations,465600.0,2027-05-01,86.0,17.8,7.0,1,6.6
+A008,Pinnacle Marketing Partners,IMO,Client,2.0,Licensing & Appointments;Annuity Illustrations,316500.0,2027-09-21,69.0,13.2,10.0,1,8.6
+A009,Crestview Annuity Marketing,IMO,Client,5.7,Suitability Review;Order Entry,205400.0,2027-03-12,78.0,14.0,5.0,2,7.5
+A010,Frontier Producer Network,IMO,Client,8.5,Distribution Analytics;E-Application;In-Force Data Feed;Annuity Illustrations;Licensing & Appointments,429800.0,2026-12-02,74.0,8.7,9.0,1,9.1
+A011,Lakeside BGA,BGA,Client,3.7,Distribution Analytics;Order Entry,373300.0,2027-03-09,93.0,17.2,6.0,2,13.5
+A012,Copperline Brokerage,BGA,Prospect,6.8,,0.0,,,,,0,
+A013,Westgate Insurance Services,BGA,Prospect,1.8,,0.0,,,,,0,
+A014,Redwood Securities,Broker-Dealer,Prospect,3.5,,0.0,,,,,0,
+A015,Atlas Investor Services,Broker-Dealer,Prospect,7.7,,0.0,,,,,0,
+A016,Cobalt Wealth Partners,Broker-Dealer,Prospect,4.1,,0.0,,,,,0,
